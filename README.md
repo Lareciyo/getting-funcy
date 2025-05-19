@@ -44,4 +44,6 @@ Now, let's develop some functions to perform mathematical operations with these 
 - Write a function called `fullName` that sets the variable `name` with a space and the variable `lastName` together.
 - Write a function called `lightChange` that sets the variable `trafficLight` equal to 'green'.
 
+
+the
 ---
